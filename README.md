@@ -70,3 +70,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 - para lanzar el push
 - Prueba de ignorar
+- prueba pull request
